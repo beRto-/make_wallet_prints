@@ -1,0 +1,7 @@
+applyCrop,True
+resizeForPrinting,True
+hw_paperDims,4x6
+wh_tilePattern,2,2
+long_short_print_px,1024,768
+inputdir,P:/make_wallet_prints/photos_original
+outputdir,P:/make_wallet_prints/photos_wallet_sized
