@@ -6,7 +6,7 @@ This Python 3 script takes any photo and repackages it as wallet-sized images on
 
 NOTE: libtile.py is a modified version of Jeffrey Clement's original code Copyright 2003 (unfortunately, I cannot seem to track down a link or the original source - please let me know if you have information)
 
-## Start with some photo
+## 1. Start with some photo
 ![Original Image](images/smiley-face-original.jpg)
 
 ## 2. The script tiles the photo down into wallet-size images on a standard-size photo sheet
@@ -20,4 +20,4 @@ A simple GUI is provided to:
 4. show an image preview
 5. run the script to create the wallet images
 
-![GUI](images/gui.jpg)
+![GUI](images/GUI.jpg)
