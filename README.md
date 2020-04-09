@@ -9,7 +9,7 @@ NOTE: libtile.py is a modified version of Jeffrey Clement's original code Copyri
 ## 1. Start with some photo
 ![Original Image](images/smiley-face-original.jpg)
 
-## 2. The script tiles the photo down into wallet-size images on a standard-size photo sheet
+## 2. Script tiles into wallet-size images on standard-size photo paper
 ![Wallet Photos](images/wallet-smiley-face-original.jpg)
 
 ## The GUI
